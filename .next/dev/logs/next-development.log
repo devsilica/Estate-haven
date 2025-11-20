@@ -1,0 +1,182 @@
+[00:00:06.658] Server  LOG      ✓ Ready in 5.7s
+[00:02:31.545] Server  LOG      ○ Compiling / ...
+[00:02:42.584] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:42.585] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:42.587] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:42.589] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:45.707] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:45.772] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:45.786] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:45.789] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:45.901] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:46.325] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:46.325] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:46.326] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763671161796}
+[00:02:47.492] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:47.525] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:47.530] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:47.534] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:47.965] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:47.972] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
+[00:02:47.973] Server  WARN     ⚠ [next]/internal/font/google/inter_2fe1ab3d.module.css
+next/font: warning:
+Failed to download `Inter` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/inter_2fe1ab3d.module.css
+    [next]/internal/font/google/inter_2fe1ab3d.js
+    ./app/layout.tsx
+
+
+[00:02:47.973] Server  WARN     ⚠ [next]/internal/font/google/playfair_display_d2444.module.css
+next/font: warning:
+Failed to download `Playfair Display` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/playfair_display_d2444.module.css
+    [next]/internal/font/google/playfair_display_d2444.js
+    ./app/layout.tsx
+
+
